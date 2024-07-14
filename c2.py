@@ -1,7 +1,7 @@
 import network
 
-ssid = 'BSNL_rtd'
-password = 'uchila2022'
+ssid = ''
+password = ''
 
 def connect_wifi(ssid, password):
     station = network.WLAN(network.STA_IF)
