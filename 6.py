@@ -3,7 +3,7 @@ import urequests
 import ujson
 
 ssid = "vivo Y100A"
-password = "personal.s"
+password = ""
 
 def connect_to_wifi(ssid, password):
     wlan = network.WLAN(network.STA_IF)

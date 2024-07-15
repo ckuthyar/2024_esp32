@@ -3,12 +3,12 @@ import network
 
 # Your network credentials
 ssid = 'BSNL_rtd'
-password = 'uchila2022'
+password = ''
 
 # Email details
 sender_email = 'postmaster@sandbox1b5fbfb0fd9c4dcda06a9344c83c89c3.mailgun.org'
 sender_name = 'ESP32'
-sender_password = '11092168d0803e4fbb3747c0ded624a6-4c955d28-e55ef157'
+sender_password = ''
 recipient_email = 'ckuthyar@gmail.com'
 email_subject = 'Testing at 2024-714_2118'
 email_body = 'From cS'

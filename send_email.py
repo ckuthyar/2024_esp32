@@ -4,12 +4,12 @@ import umail
 
 # Wi-Fi settings
 ssid = "vivo Y100A"
-password = "personal.s"
+password = ""
 
 # Mailgun settings
 sender_email = 'postmaster@sandbox1b5fbfb0fd9c4dcda06a9344c83c89c3.mailgun.org'
 sender_name = 'ESP32'
-sender_password = '11092168d0803e4fbb3747c0ded624a6-4c955d28-e55ef157'
+sender_password = ''
 recipient_email = 'ssvision064@gmail.com'
 email_subject = 'BaatCheet English'
 email_body = 'sakmkasas'
